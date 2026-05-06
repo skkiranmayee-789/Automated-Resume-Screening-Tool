@@ -146,17 +146,23 @@ Looking for a Python Developer with skills in Python, SQL, Machine Learning, NLP
 
 # 📸 Screenshots
 
+# 📸 Screenshots
+
 ## Home Page
-(Add Screenshot Here)
+
+![Home Page](images/homepage.png)
+
+---
 
 ## Uploaded Resumes
-(Add Screenshot Here)
+
+![Upload Section](images/upload_page.png)
+
+---
 
 ## Resume Ranking Results
-(Add Screenshot Here)
 
-## CSV Report Generation
-(Add Screenshot Here)
+![Results](images/results.png)
 
 ---
 
