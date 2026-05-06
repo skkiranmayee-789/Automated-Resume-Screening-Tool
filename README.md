@@ -154,7 +154,7 @@ Looking for a Python Developer with skills in Python, SQL, Machine Learning, NLP
 
 ## Uploaded Resumes
 
-![Upload Section](images/upload_resumes.png)
+![Upload Section](images/uploaded_resumes.png)
 
 ---
 
