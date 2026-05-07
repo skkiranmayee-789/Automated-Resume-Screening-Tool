@@ -85,7 +85,7 @@ Automated-Resume-Screening-Tool/
 ## Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/skkiranmayee-789/Automated-Resume-Screening-Tool
 ```
 
 ---
